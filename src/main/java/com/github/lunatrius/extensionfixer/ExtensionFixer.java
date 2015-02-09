@@ -1,12 +1,12 @@
 package com.github.lunatrius.extensionfixer;
 
 import com.github.lunatrius.extensionfixer.reference.Reference;
-import cpw.mods.fml.common.FMLCommonHandler;
-import cpw.mods.fml.common.Loader;
-import cpw.mods.fml.common.Mod;
-import cpw.mods.fml.common.ModClassLoader;
-import cpw.mods.fml.common.network.NetworkCheckHandler;
-import cpw.mods.fml.relauncher.Side;
+import net.minecraftforge.fml.common.FMLCommonHandler;
+import net.minecraftforge.fml.common.Loader;
+import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.common.ModClassLoader;
+import net.minecraftforge.fml.common.network.NetworkCheckHandler;
+import net.minecraftforge.fml.relauncher.Side;
 
 import javax.swing.*;
 import java.io.File;
