@@ -1,0 +1,25 @@
+{
+	"modListVersion": 2,
+	"modList": [
+		{
+			"modid": "ExtensionFixer",
+			"name": "Extension Fixer",
+			"description": "Renames files with invalid file extensions.",
+			"mcversion": "${mcversion}",
+			"version": "${version}",
+			"authorList": [
+				"Lunatrius"
+			],
+			"credits": "",
+			"dependants": [  ],
+			"dependencies": [ "Forge@[${minforgeversion},)" ],
+			"parent": "",
+			"requiredMods": [ "Forge@[${minforgeversion},)" ],
+			"logoFile": "",
+			"screenshots": [  ],
+			"updateUrl": "http://mc.lunatri.us/",
+			"url": "http://mc.lunatri.us/",
+			"useDependencyInformation": true
+		}
+	]
+}
